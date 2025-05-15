@@ -143,4 +143,4 @@ The following images are a few excerpts from the pyTECController UI.
 
 Ole Kuhlmann  
 Email: [ole.kuhlmann@rwth-aachen.de](mailto:ole.kuhlmann@rwth-aachen.de)  
-GitHub: [ThatTilux](https://github.com/ThatTilux)
+GitHub: [olekuhlmann](https://github.com/olekuhlmann)
